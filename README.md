@@ -19,7 +19,7 @@ Status is a modern, lightweight, and open-source status page application designe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/status.git
+   git clone https://github.com/bradlot/status.git
    cd status
    ```
 
